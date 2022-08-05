@@ -12,3 +12,8 @@ h1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: green;
 }
+
+.logo {
+  width: 100px;
+  padding: 10px;
+}
